@@ -1,7 +1,6 @@
 __pycache__
 data
 db
-geckodriver.log log
 userlist.csv
 geckodriver.log
 log
